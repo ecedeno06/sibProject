@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/10 14:24:14.000.287,=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/06 07:54:54.000.419,=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/11 11:48:49.000.672,=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/11 11:50:18.000.841,C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\SIB.dfm=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/01/11 11:50:18.000.841,C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\SIB.pas=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/11 11:50:26.000.396,C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\SIBapp.dproj=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2018/01/11 11:52:04.000.210,=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/11 11:52:33.000.216,C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\dm.dfm=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/01/11 11:52:33.000.216,C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\dm.pas=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/11 12:06:21.000.715,=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/11 12:07:09.000.548,C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\login.pas=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/11 12:07:09.000.548,C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\login.dfm=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/01/13 12:50:41.000.611,=D:\sistemas\SIB\Fuentes\Ventana3.pas</Transaction>
+    <Transaction>2018/01/13 12:51:39.000.067,D:\sistemas\SIB\Fuentes\Ventana3.pas=</Transaction>
+    <Transaction>2018/01/13 12:51:56.000.040,=D:\sistemas\SIB\Fuentes\Unit1.pas</Transaction>
+    <Transaction>2018/01/13 12:52:46.000.842,D:\sistemas\SIB\Fuentes\Ventana3.pas=D:\sistemas\SIB\Fuentes\Unit1.pas</Transaction>
+    <Transaction>2018/01/13 12:52:46.000.842,D:\sistemas\SIB\Fuentes\Ventana3.dfm=D:\sistemas\SIB\Fuentes\Unit1.dfm</Transaction>
+    <Transaction>2018/01/13 12:54:37.000.029,=D:\sistemas\SIB\Fuentes\Unit1.pas</Transaction>
+    <Transaction>2018/01/13 12:54:49.000.740,D:\sistemas\SIB\Fuentes\Poliza.dfm=D:\sistemas\SIB\Fuentes\Unit1.dfm</Transaction>
+    <Transaction>2018/01/13 12:54:49.000.740,D:\sistemas\SIB\Fuentes\Poliza.pas=D:\sistemas\SIB\Fuentes\Unit1.pas</Transaction>
+    <Transaction>2018/01/15 08:43:12.000.196,=D:\sistemas\SIB\Fuentes\Unit1.pas</Transaction>
+    <Transaction>2018/01/15 08:43:46.000.156,D:\sistemas\SIB\Fuentes\Unit1.dfm=D:\sistemas\SIB\Fuentes\mapa.dfm</Transaction>
+    <Transaction>2018/01/15 08:43:46.000.156,D:\sistemas\SIB\Fuentes\Unit1.pas=D:\sistemas\SIB\Fuentes\mapa.pas</Transaction>
+    <Transaction>2018/01/15 08:51:25.000.951,D:\sistemas\SIB\Fuentes\mapa.pas=</Transaction>
+    <Transaction>2018/01/15 08:51:46.000.542,=D:\sistemas\SIB\Fuentes\Unit1.pas</Transaction>
+    <Transaction>2018/01/15 08:52:04.000.298,D:\sistemas\SIB\Fuentes\Unit1.pas=D:\sistemas\SIB\Fuentes\mapa.pas</Transaction>
+    <Transaction>2018/01/15 08:52:04.000.298,D:\sistemas\SIB\Fuentes\Unit1.dfm=D:\sistemas\SIB\Fuentes\mapa.dfm</Transaction>
+    <Transaction>2018/01/15 09:14:42.000.155,D:\sistemas\SIB\Fuentes\mapa.pas=</Transaction>
+    <Transaction>2018/01/15 09:14:50.000.049,=D:\sistemas\SIB\Fuentes\mapa.pas</Transaction>
+    <Transaction>2018/01/15 12:32:08.000.469,=D:\sistemas\SIB\Fuentes\Unit1.pas</Transaction>
+    <Transaction>2018/01/15 12:45:18.000.410,D:\sistemas\SIB\Fuentes\mapa2.dfm=D:\sistemas\SIB\Fuentes\Unit1.dfm</Transaction>
+    <Transaction>2018/01/15 12:45:18.000.410,D:\sistemas\SIB\Fuentes\mapa2.pas=D:\sistemas\SIB\Fuentes\Unit1.pas</Transaction>
+    <Transaction>2018/01/21 19:53:37.000.867,=D:\Sistemas\SIB\Fuentes\Unit1.pas</Transaction>
+    <Transaction>2018/01/21 19:54:33.000.931,D:\Sistemas\SIB\Fuentes\Unit1.dfm=D:\Sistemas\SIB\Fuentes\Mant_TipoGestion.dfm</Transaction>
+    <Transaction>2018/01/21 19:54:33.000.931,D:\Sistemas\SIB\Fuentes\Unit1.pas=D:\Sistemas\SIB\Fuentes\Mant_TipoGestion.pas</Transaction>
+    <Transaction>2018/01/23 16:43:36.000.426,=D:\Sistemas\SIB\Fuentes\Unit1.pas</Transaction>
+    <Transaction>2018/01/25 21:34:49.000.858,=D:\Sistemas\SIB\Fuentes\Mant_Areas.pas</Transaction>
+    <Transaction>2018/02/03 18:23:35.000.669,D:\Sistemas\sib3\D\Sistemas\SIB\Fuentes\mapa2.pas=</Transaction>
+    <Transaction>2018/02/03 18:23:40.000.851,D:\Sistemas\sib3\D\Sistemas\SIB\Fuentes\mapa.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="dm.pas"/>
+    <File Path="dm.dfm"/>
+    <File Path="login.pas"/>
+    <File Path="login.dfm"/>
+    <File Path="Mant_TipoGestion.pas"/>
+    <File Path="Mant_TipoGestion.dfm"/>
+    <File Path="Poliza.pas"/>
+    <File Path="Poliza.dfm"/>
+    <File Path="SIB.pas"/>
+    <File Path="SIB.dfm"/>
+    <File Path="Ventana3.pas"/>
+    <File Path="Ventana3.dfm"/>
+    <File Path="Mant_Areas.pas"/>
+    <File Path="Mant_Areas.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

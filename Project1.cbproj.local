@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/07/02 10:30:10.000.389,=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/07/02 10:30:10.000.406,=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/07/02 21:48:43.000.919,=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/07/02 21:48:43.000.905,=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/07/02 21:50:41.000.259,C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\spliter.h</Transaction>
+    <Transaction>2017/07/02 21:50:41.000.259,C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\spliter.cpp</Transaction>
+    <Transaction>2017/07/02 21:50:41.000.259,C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\spliter.dfm</Transaction>
+    <Transaction>2017/07/03 07:21:12.000.673,C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\prj_Spliter.h</Transaction>
+    <Transaction>2017/07/03 07:21:21.000.815,C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Edwin\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
